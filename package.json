@@ -1,0 +1,9 @@
+{
+  "name": "checkmytoy-web",
+  "version": "20.0.0",
+  "private": true,
+  "description": "CheckMyToy LLC — Official ATV, Jet Ski, Dirt Bike & Motorcycle Title & Lien Verification Portal",
+  "dependencies": {
+    "stripe": "^14.21.0"
+  }
+}
